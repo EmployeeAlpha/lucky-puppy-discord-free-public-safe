@@ -50,11 +50,3 @@ jobs:
             git commit -m "Update Lucky Puppy quote index" || echo "Nothing to commit"
             git push
           fi
-
-
-
-
-
-
-
-          
