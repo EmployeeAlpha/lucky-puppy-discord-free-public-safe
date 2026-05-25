@@ -1,0 +1,7 @@
+{
+  "ai_enabled": false,
+  "discord_token": "PUT-YOUR-DISCORD-TOKEN-HERE",
+  "command_prefix": "!",
+  "ollama_url": "http://localhost:11434/api/generate",
+  "ollama_model": "llama3"
+}
